@@ -1,14 +1,12 @@
 # Monitoring Tugas
 
-Aplikasi **Monitoring Tugas** adalah aplikasi berbasis web yang dirancang untuk membantu proses pengelolaan, pengawasan, dan pelaporan tugas antara **guru**, **murid**, dan **admin** di lingkungan sekolah atau pendidikan. Aplikasi ini memungkinkan pemantauan progres tugas siswa secara efisien dan terstruktur.
+Sistem atau aplikasi **Monitoring Tugas** ini dirancang untuk membantu sekolah dalam proses pengelolaan, pengawasan, dan pelaporan tugas murid kepada guru.
 
 ## 🎯 Tujuan Pembuatan
 
 Tujuan dari pembuatan aplikasi ini adalah:
 
-- Mempermudah **guru** dalam memberikan, memantau, dan menilai tugas siswa.
-- Membantu **murid** melihat daftar tugas, mengumpulkan tugas, serta memantau status tugas mereka.
-- Memberikan **admin** kontrol penuh terhadap manajemen pengguna dan sistem.
+- Memudahkan **guru** dalam memberikan, memantau, ataupun menilai tugas muridnya.
 
 ## 👤 Hak Akses dan Peran Pengguna
 
@@ -16,10 +14,9 @@ Tujuan dari pembuatan aplikasi ini adalah:
 
 Admin memiliki hak penuh atas sistem. Hak-hak admin antara lain:
 
-- Menambah, mengubah, dan menghapus data **pengguna (guru dan murid)**.
+- Menambah, mengubah, dan menghapus data **pengguna atau user (guru dan murid)**.
 - Mengatur hak akses setiap pengguna.
-- Melihat seluruh aktivitas dan data dalam sistem.
-- Mengelola mata pelajaran, kelas, dan data sistem lainnya.
+- Melihat seluruh aktivitas dan mengelola data dalam sistem (mata pelajaran, kelas, dan data sistem lainnya).
 
 ### 2. Guru
 
